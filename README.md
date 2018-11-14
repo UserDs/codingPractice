@@ -1,2 +1,2 @@
 # codingPractice
-Codding challenges which I have solved.
+Coding challenges which I have solved.
